@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.259f40a0.css",
+    "main.js": "/static/js/main.1c267a5a.js",
+    "static/js/787.9dfb21ad.chunk.js": "/static/js/787.9dfb21ad.chunk.js",
+    "static/media/queso_champinon_choclo.jpg": "/static/media/queso_champinon_choclo.46b7c51dec42ede90f2b.jpg",
+    "static/media/queso_espinaca.jpg": "/static/media/queso_espinaca.7877a15f9aa1ae64fb40.jpg",
+    "static/media/queso_choclo.jpg": "/static/media/queso_choclo.d8c436ca25a269eb0b3d.jpg",
+    "static/media/napolitana.jpg": "/static/media/napolitana.ccef91603a7ebcb9f66c.jpg",
+    "static/media/queso_pollo_choclo.png": "/static/media/queso_pollo_choclo.daf9478294d799c0e45b.png",
+    "static/media/queso_aceituna.jpg": "/static/media/queso_aceituna.fc4235351e9aad0fdeed.jpg",
+    "static/media/mechada_queso.jpg": "/static/media/mechada_queso.9243e944bf0425b3a5fb.jpg",
+    "static/media/queso.jpg": "/static/media/queso.a38a3a2aa621c73e9a5d.jpg",
+    "static/media/queso_camaron.jpg": "/static/media/queso_camaron.0ebaae7574e71df66c91.jpg",
+    "static/media/queso_champinon.jpg": "/static/media/queso_champinon.002adf07e06c6ec37f89.jpg",
+    "static/media/chaparrita.jpg": "/static/media/chaparrita.2a5b8714cc4470cf4a95.jpg",
+    "static/media/pino_marisco.jpg": "/static/media/pino_marisco.ce9554d8ab4717d02d07.jpg",
+    "static/media/jamon_queso.jpg": "/static/media/jamon_queso.27b00995db507ef66917.jpg",
+    "static/media/IMG-20230816-WA0058.jpg": "/static/media/IMG-20230816-WA0058.a0c2a1f4cda23ec67ac1.jpg",
+    "static/media/goldenFoodLogo.jpg": "/static/media/goldenFoodLogo.6b4bd8e5da02dd188fa1.jpg",
+    "index.html": "/index.html",
+    "main.259f40a0.css.map": "/static/css/main.259f40a0.css.map",
+    "main.1c267a5a.js.map": "/static/js/main.1c267a5a.js.map",
+    "787.9dfb21ad.chunk.js.map": "/static/js/787.9dfb21ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.259f40a0.css",
+    "static/js/main.1c267a5a.js"
+  ]
+}
