@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/golden-food/static/css/main.259f40a0.css",
-    "main.js": "/golden-food/static/js/main.d7d97cb6.js",
+    "main.css": "/golden-food/static/css/main.d91a35fe.css",
+    "main.js": "/golden-food/static/js/main.37d5a8d5.js",
     "static/js/787.9dfb21ad.chunk.js": "/golden-food/static/js/787.9dfb21ad.chunk.js",
     "static/media/queso_champinon_choclo.jpg": "/golden-food/static/media/queso_champinon_choclo.46b7c51dec42ede90f2b.jpg",
     "static/media/queso_espinaca.jpg": "/golden-food/static/media/queso_espinaca.7877a15f9aa1ae64fb40.jpg",
@@ -19,12 +19,12 @@
     "static/media/IMG-20230816-WA0058.jpg": "/golden-food/static/media/IMG-20230816-WA0058.a0c2a1f4cda23ec67ac1.jpg",
     "static/media/goldenFoodLogo.jpg": "/golden-food/static/media/goldenFoodLogo.6b4bd8e5da02dd188fa1.jpg",
     "index.html": "/golden-food/index.html",
-    "main.259f40a0.css.map": "/golden-food/static/css/main.259f40a0.css.map",
-    "main.d7d97cb6.js.map": "/golden-food/static/js/main.d7d97cb6.js.map",
+    "main.d91a35fe.css.map": "/golden-food/static/css/main.d91a35fe.css.map",
+    "main.37d5a8d5.js.map": "/golden-food/static/js/main.37d5a8d5.js.map",
     "787.9dfb21ad.chunk.js.map": "/golden-food/static/js/787.9dfb21ad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.259f40a0.css",
-    "static/js/main.d7d97cb6.js"
+    "static/css/main.d91a35fe.css",
+    "static/js/main.37d5a8d5.js"
   ]
 }
