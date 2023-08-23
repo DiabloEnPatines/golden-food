@@ -1,5 +1,8 @@
 import React from 'react';
 import './index.css';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faFacebook, faInstagram } from '@fortawesome/free-brands-svg-icons';
+
 const logoGolden = require('./images/goldenFoodLogo.jpg');
 const quesoChocloImage = require('./images/queso_choclo.jpg');
 const quesoChampinon = require('./images/queso_champinon.jpg');
@@ -237,7 +240,21 @@ function ElementoMenu({ item }) {
     </div>
   );
 }
-
+function Footer() {
+  return (
+    <footer className="footer">
+      <div className="footer-left">
+        <img src={logoGolden} alt="Logo" className="footer-logo" />
+      </div>
+      <div className="footer-right">
+        <div className="social-media">
+          <a href="https://www.facebook.com/people/Golden-Food/100090866022570/"><FontAwesomeIcon icon={faFacebook} /></a>
+          <a href="https://instagram.com/golden_food_spa?igshid=MzRlODBiNWFlZA=="><FontAwesomeIcon icon={faInstagram} /></a>
+        </div>
+      </div>
+    </footer>
+  );
+}
 function App() {
   return (
     <div>
@@ -270,6 +287,7 @@ function App() {
           ))}
         </div>
       </div>
+      <Footer />
     </div>
   );
 }
